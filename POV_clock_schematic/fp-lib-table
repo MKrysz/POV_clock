@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name CR2032_component_search_engine)(type KiCad)(uri ${KIPRJMOD}/CR2032_component_search_engine.pretty)(options "")(descr ""))
+)
